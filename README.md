@@ -5,7 +5,7 @@
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20WSL%20%7C%20Windows-607D8B)
 ![RFC](https://img.shields.io/badge/RFC-9562-455A64)
 ![Tests](https://img.shields.io/badge/tests-58%20passing-2E7D32)
-![License](https://img.shields.io/badge/license-MIT-546E7A)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
 Ferramenta de **engenharia reversa de UUID** conforme a **RFC 9562**: descobre se
 um identificador é um UUID, qual a sua **versão** e **variante**, e traduz o
@@ -90,4 +90,4 @@ Serve de base para reconstrução ao vivo em aula.
 
 ## Licença
 
-MIT.
+GPL-3.0 — veja [`LICENSE`](LICENSE).
