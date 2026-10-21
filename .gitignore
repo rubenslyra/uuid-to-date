@@ -1,0 +1,13 @@
+# Saidas geradas
+*.csv
+!data/*.csv
+
+# Temporarios
+*.tmp
+*.log
+*~
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

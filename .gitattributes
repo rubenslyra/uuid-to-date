@@ -1,0 +1,19 @@
+# Normaliza fim de linha por tipo de arquivo
+* text=auto
+
+# Shell scripts: sempre LF (Linux/WSL/Git Bash)
+*.sh text eol=lf
+
+# Batch: sempre CRLF (Windows)
+*.bat text eol=crlf
+
+# PowerShell: CRLF no Windows
+*.ps1 text eol=crlf
+
+# Dados e docs
+*.csv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binarios
+*.pdf binary
